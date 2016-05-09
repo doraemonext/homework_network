@@ -2,5 +2,5 @@ package com.doraemonext.webserver;
 
 class Constants {
 
-    static Integer PORT = 8000;
+    static int PORT = 8000;
 }
